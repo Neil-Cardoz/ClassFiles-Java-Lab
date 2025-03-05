@@ -5,7 +5,7 @@ public class Main {
 
         StudentOperations studentOperations = new StudentOperations();
         studentOperations.insertStudent();
-
+        studentOperations.viewStudents();
 
     }
 }
